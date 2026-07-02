@@ -94,7 +94,7 @@ The application confirms successful PIN creation.
 
 Displays all available banking operations.
 
-![ATM Menu](images/atm-menu.png)
+![ATM Menu](images/ATM-Dashboard.png)
 
 ---
 
