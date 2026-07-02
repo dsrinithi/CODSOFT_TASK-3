@@ -172,7 +172,7 @@ ATMInterface
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/ATMInterface.git
+git clone https://github.com/dsrinithi/CODSOFT_TASK-3.git
 ```
 
 ## Open the Project
