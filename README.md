@@ -102,7 +102,7 @@ Displays all available banking operations.
 
 Users can securely deposit money into their account.
 
-![Deposit](images/deposit (2).png)
+![Deposit](images/deposit.png)
 
 ---
 
