@@ -155,7 +155,6 @@ ATMInterface
 ├── images
 │   ├── welcome-create-pin.png
 │   ├── pin-created.png
-│   ├── login.png
 │   ├── atm-menu.png
 │   ├── deposit.png
 │   ├── withdraw.png
@@ -214,7 +213,7 @@ Execute the `Main.java` file.
 
 **Srinithi D**
 
-**B.E. Computer Science and Business Systems (CSBS)**
+**B.E. **Electronics and Communication Engineering**
 
 ---
 
